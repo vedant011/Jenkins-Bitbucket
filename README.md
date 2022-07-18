@@ -5,4 +5,5 @@
 #### Steps : 
 #### a) Install the plugin: 
 ##### 1) Go to Jenkins > Manage Jenkins > Manage Plugins.
-![Test Image 1](/Images/Screenshot 2022-07-18 124228.png)
+<img src="Images/Covid1.png" alt=""/>
+
