@@ -64,12 +64,18 @@ To create the Application Link:
      
 ----------------------------------
 
-#### b) Configure the plugin: Create freestyle Job:
-### 1) Go to Jenkins > New item and then select freestyle project.
-### 2) In Source Code Management, select Bitbucket server and enter the details.
-### 3) Under Build Trigger, select Bitbucket webhook trigger, and select push
-### 4) Under Build, add build steps.
-### 5) Select Save.
+#### C) Configure the plugin: Create freestyle Job:
+##### 1) Go to Jenkins > New item and then select freestyle project.
+##### 2) In Source Code Management, select Bitbucket server and enter the details.
+##### 3) Under Build Trigger, select Bitbucket webhook trigger, and select push
+##### 4) Under Build, add build steps.
+##### 5) Select Save.
+
+Step 2:-
+<img src="Image/5.png" alt=""/>
+
+step 3:-
+<img src="Image/6.png" alt=""/> 
        
 
 
