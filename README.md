@@ -78,10 +78,10 @@ step 3:-
 <img src="Image/6.png" alt=""/> 
 
 after build:-
-<img src="Image/6.png" alt=""/>
+<img src="Image/7.png" alt=""/>
 
 final output:-
-<img src="Image/7.png" alt=""/> 
+<img src="Image/8.png" alt=""/> 
 
 
       
