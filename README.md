@@ -5,3 +5,4 @@
 #### Steps : 
 #### a) Install the plugin: 
 ##### 1) Go to Jenkins > Manage Jenkins > Manage Plugins.
+![Test Image 1](.png)
