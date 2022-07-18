@@ -76,7 +76,12 @@ Step 2:-
 
 step 3:-
 <img src="Image/6.png" alt=""/> 
-       
+
+after build:-
+<img src="Image/6.png" alt=""/>
+
+final output:-
+<img src="Image/7.png" alt=""/> 
 
 
       
