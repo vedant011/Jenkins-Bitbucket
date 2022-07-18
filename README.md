@@ -33,14 +33,15 @@
     a) Go to Jenkins > Manage Jenkins > Manage Bitbucket Server consumers.
     b) Click on Register new consumer.
     c) Enter details:
-       1) Consumer name: Enter any name you want.
-       2) Consumer Key: Enter a unique key that jenkins use to identify bitbucket instance.
-       3) Shared screte: Enter a password that jenkins can use with key to ideantify bitbucket             instance.
-       4) Callback URL: Enter your Bitbucket instance's base URL.
+       1) Consumer name: Enter any name you want. ex.Bitbucket Sydney
+       2) Consumer Key: Enter a unique key that jenkins use to identify bitbucket instance. ex.bitbucket-syd
+       3) Shared screte: Enter a password that jenkins can use with key to ideantify bitbucket instance.
+       4) Callback URL: Enter your Bitbucket instance's base URL. ex. http://localhost:7990/
     d) Select Save.
     
-After you save, you will be redirect to Application link details page which will needed for    second part.
+After you save, you will be redirect to Application link details page which will needed for second part.
 else you can also access the same page by going to Jenkins > Manage Jenkins > Manage Bitbucket Server consumers
+<img src="Image/3.png" alt=""/>
 
 ###### 2) Create an Application Link to Jenkins:for this part we need to do our configuration in bitbucket side.
 To create the Application Link:
