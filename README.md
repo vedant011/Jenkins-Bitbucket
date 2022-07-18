@@ -54,13 +54,13 @@ To create the Application Link:
       2) Application Type - Leave as Generic Application.
       3) Service Provider Name - Enter the same name used for Application Name (Step 1)
       4) Consumer Key - See Application link details page.
-      5) Shared secret - Enter the secret you created when registering Bitbucket server as a                              consumer.
+      5) Shared secret - Enter the secret you created when registering Bitbucket server as a consumer.
       6) Request Token URL - see Application link details page.
       7) Access token URL - see Application link details page.
       8) Authorize URL - see Application link details page.
       9) Create incoming link - leave unchecked.
      e) Select Continue.
-     
+<img src="Image/4.png" alt=""/>     
      
 ----------------------------------
 
