@@ -5,5 +5,5 @@
 #### Steps : 
 #### a) Install the plugin: 
 ##### 1) Go to Jenkins > Manage Jenkins > Manage Plugins.
-<img src="Images/Screenshot 2022-07-18 124228.png" alt=""/>
+<img src="Image/Screenshot 2022-07-18 124228.png" alt=""/>
 
